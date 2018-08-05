@@ -1,20 +1,20 @@
-******************************************* Udacity Neighborhood Map Project*******************************************
+### ******************************************* Udacity Neighborhood Map Project*******************************************
 
 This is the final  project  for Udacity Front-end Developer course. in this project I use MVC architecture and AJAX request.
 
 
-******************************************** Download File *******************************************
-https://github.com/ahmedtoama/udacity-neighborhood-map-project-8-tanta-resturant
+### ******************************************** Download File *******************************************
+https://github.com/ahmedtoama/Tanta-resturant-map
 
 
-******************************************** How to install*******************************************
+### ******************************************** How to install*******************************************
 
 1. download this project in to your device
 2. Unzip this file
 3. Open index.html
 
 
-******************************************* How to use app*******************************************
+### ******************************************* How to use app*******************************************
 
 1. Clicked on one of the list in the navigation menu on the left of the screen. Or clicked on any markers.
 2. Filter places by type in the search field with their name.
