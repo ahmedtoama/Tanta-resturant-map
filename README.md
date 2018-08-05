@@ -1,4 +1,4 @@
-### ************************************** Udacity Neighborhood Map Project **************************************
+### ******************************** Udacity Neighborhood Map Project *******************************
 
 This is the final  project  for Udacity Front-end Developer course. in this project I use MVC architecture and AJAX request.
 
