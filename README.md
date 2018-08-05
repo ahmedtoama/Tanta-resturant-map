@@ -20,12 +20,12 @@ https://github.com/ahmedtoama/Tanta-resturant-map
 2. Filter places by type in the search field with their name.
 
 
-******************************************* Requirements*******************************************
+### ******************************************* Requirements*******************************************
 
 This app use Google Maps API key and Instagram API access token. I provided mine in the code but just in case you want to change.
 
 
-******************************************* Library Use*******************************************
+### ******************************************* Library Use*******************************************
 
 1- [Twitter Bootstrap](http://getbootstrap.com/)
 2- [Knockout JS](http://knockoutjs.com/)
